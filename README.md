@@ -1,3 +1,5 @@
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ana Karen AV?cardType=level-alternate&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
+
 ## Hi there 👋
 ```
 💬 I'm Karen Arredondo and I'm a graduate in 
